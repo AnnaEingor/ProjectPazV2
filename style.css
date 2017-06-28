@@ -18,5 +18,9 @@ body{
     background-color: gainsboro
 }
 .content{
+    width: 100%;
+    
+}
+.column{
     
 }
